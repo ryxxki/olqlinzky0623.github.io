@@ -89,13 +89,13 @@ h1.vrs{
     width: 900px;
     position: relative;
     top: 20px;
-    right: 30px;
+    right: 100px;
     opacity: 0.3;
     font-size: 150px;
 }
 h1.vrs.scd{
     top: -160px;
-    right: 60px;
+    right: 150px;
 }
 .bg1{ 
     position: relative;
