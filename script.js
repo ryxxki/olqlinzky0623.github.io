@@ -1,7 +1,7 @@
 const menu_btn = document.querySelector(".menu-btn");
 const nav_ul = document.querySelector("ul.link");
 const nav = document.querySelector("nav");
-const menu = document.querySelector("nav h1");
+const navH = document.querySelector("nav h1");
 let pilihan = false;
 
 menu_btn.addEventListener("click", () => {
