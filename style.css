@@ -344,7 +344,7 @@ ul.link li a{
     height: 200px;
     position: absolute;
     transform: translate(15%, 30%);
-    bottom: -2150px;
+    bottom: -2050px;
     display: flex;
     justify-content: center;
     align-items: center;
